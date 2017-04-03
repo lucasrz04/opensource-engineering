@@ -28,58 +28,55 @@ This list was inspired by [awesome list](https://awesome.re/) but with the diffe
 
 ## Microcontrollers
 
- * [Piklab]() -
- * [LDMicro]() -
- * [Picsim]() -
- * [Ponyprog]() -
+ * [Piklab](http://piklab.sourceforge.net/) -
+ * [LDMicro](http://www.cq.cx/ladder.pl) -
+ * [Picsim](https://sourceforge.net/projects/picsim/) -
+ * [Ponyprog](http://www.lancos.com/prog.html) -
  
 
 ## Networks
 
- * [GNS3]() -
+ * [GNS3](https://www.gns3.com/) -
  
 ## Control
 
- * [Scilab]() -
- * [JMCAD]() -
+ * [Scilab](www.scilab.org) -
+ * [JMCAD](http://jmcad.sourceforge.net/index_us.shtml) -
 
 ## Neural Networks
 
- * [OpenCV]() -
- * [Neuroph]() -
- * [Joone]() -
+ * [OpenCV](opencv.org) -
+ * [Neuroph](http://neuroph.sourceforge.net/) -
+ * [Joone](http://www.jooneworld.com/) -
 
 ## SCADA
 
- * [SCADABR]() -
- * [Lintouch]() -
- * [WebVisu]() -
+ * [SCADABR](http://www.scadabr.com.br/) -
+ * [Lintouch](http://lintouch-ng.sourceforge.net/) -
+ * [WebVisu](https://sourceforge.net/projects/webvisu/) -
 
 
 ## Electronics
 
  * [Circuit](http://www.falstad.com/circuit) - 
- * [Ahkab]() - 
- * [schism]() -
- * [Qeletro]() -
- * [Fritzing]() -
- * [Logisim]() -
- * [Qucs]() -
- * [Ngspice]() -
- * [Ktechlab]() -
- * [Simulide]() -
- * [Gpsim]() -
+ * [Ahkab](https://ahkab.github.io/ahkab/) - 
+ * [Qeletrotech](https://qelectrotech.org/) -
+ * [Fritzing](http://fritzing.org/home/) -
+ * [Logisim](http://www.cburch.com/logisim/index.html) -
+ * [Qucs](http://qucs.sourceforge.net/) -
+ * [Ngspice](http://ngspice.sourceforge.net/) -
+ * [Ktechlab](https://github.com/ktechlab/ktechlab) -
+ * [Simulide](https://sourceforge.net/projects/simulide/) -
+ * [Gpsim](http://gpsim.sourceforge.net/gpsim.html) -
  * [Fidocadj](https://sourceforge.net/projects/fidocadj/) -
  * [ICtester](http://oldcomputer.info/software/ictester/) -
- * [Geda]() -
- * [Gspice]() -
- * [Icarus]() -
- * [GTKWave]() -
- * [Magic VLSI]() -
- * [IRSim]() -
+ * [Geda](http://www.geda-project.org/) -
+ * [Icarus](http://iverilog.icarus.com/) -
+ * [GTKWave](http://gtkwave.sourceforge.net/) -
  * [XCircuit](http://www.opencircuitdesign.com/xcircuit/) -
- * [kiCAD]() -
- * [FreePCB]() -
+ * [kiCAD](http://kicad-pcb.org/) -
+ * [FreePCB](http://www.freepcb.com/) -
+ * [Qflow](http://opencircuitdesign.com/qflow/) - 
 
 
 
