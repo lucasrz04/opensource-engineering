@@ -28,7 +28,7 @@ This list was inspired by [awesome list](https://awesome.re/) but with the diffe
 
 ## Microcontrollers
 
- * [Piklab](http://piklab.sourceforge.net/) -
+ * [Piklab](http://piklab.sourceforge.net/) - //Piklab is an integrated development environment (IDE) for applications based on             Microchip PIC and dsPIC microcontrollers similar to the MPLAB environment.
  * [LDMicro](http://www.cq.cx/ladder.pl) -
  * [Picsim](https://sourceforge.net/projects/picsim/) -
  * [Ponyprog](http://www.lancos.com/prog.html) -
